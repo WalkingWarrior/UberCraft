@@ -8,7 +8,7 @@ This modpack aims to increase difficulty naturally, that is, by allowing the mod
 Players should interact with all of the games systems to some extent, but they shouldn't be forced to do so extremely often if they dislike a particular system.
 In that spirit, this modpack aims to expand all Minecraft's systems, the player will have to engage with most of them from time to time, but only regularly with the ones they choose.
 
-The modpack expands on all of Minecraft's systems, but if you choose to fully engage with one, you'll have drawbacks on others. For example, if someone chooses to fully engage the RPG part of Minecrfat, they should have more trouble gathering resources and breaking blocks, as to not 'cheat' the RPG experience. Players who choose to engage with the more technical aspect should be frailer than average as to not 'cheat' the art of making complex machinery by gathering a bunch of loot. And so on and so forth. 
+The modpack expands on all of Minecraft's systems, but if you choose to fully engage with one, you'll have drawbacks on others. For example, if someone chooses to fully engage the RPG part of Minecraft, they should have more trouble gathering resources and breaking blocks, as to not 'cheat' the RPG experience. Players who choose to engage with the more technical aspect should be frailer than average as to not 'cheat' the art of making complex machinery by gathering a bunch of loot. And so on and so forth. 
 
 Gating will, of course, still be present, it's a necessary evil, but only for things such as Waila, the minimap and player's stats. Any additional gating should arrise naturally from what the player can and can't craft.
 
