@@ -14,7 +14,7 @@ Gating will, of course, still be present, it's a necessary evil, but only for th
 
 # Outline
 
-Goal: To create a kitchen-sink expert mode for modded minecraft with a nice difficulty curve and imporved game flow, all while putting the survival mode back in minecraft.
+Goal: To create a kitchen-sink expert mode for modded minecraft with a nice difficulty curve and improved game flow, all while putting the survival mode back in minecraft.
 
 1. Establishing a semi-final modlist, this includes purging redundant or unnecessary mods;
 2. Making sure the modpack is stable;
