@@ -3,7 +3,7 @@ Minecraft Modpack with a focus in expanding every facet of the game, mod diversi
 
 Modded Minecraft often has the issue of making the game too easy, some modpacks try to fix this, for example, by gating progression, this, however, doesn't fix the issue. The issue is that most mods make minecraft's core gameplay easier, gating progression only increases the game's longevity arteficially.
 
-This modpack aims to increase difficulty naturally, that is, by allowing the mods to make the game, in fact, easier, but by ramping up Minecraft's core gameplay difficulty harder overall. It also aims to expand on Minecraft's core gameplay instead of adding new mechanics, so, none of that going around collecting tweed, rocks and sticks and crafting outside a crafting table that many modpacks do.
+This modpack aims to increase difficulty naturally, that is, by allowing the mods to make the game, in fact, easier, but by ramping up Minecraft's core gameplay difficulty overall. It also aims to expand on Minecraft's core gameplay instead of adding new mechanics, so, none of that going around collecting tweed, rocks and sticks and crafting outside a crafting table that many modpacks do.
 
 Players should interact with all of the games systems to some extent, but they shouldn't be forced to do so extremely often if they dislike a particular system.
 In that spirit, this modpack aims to expand all Minecraft's systems, the player will have to engage with most of them from time to time, but only regularly with the ones they choose.
