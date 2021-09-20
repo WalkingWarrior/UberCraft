@@ -28,7 +28,7 @@ Goal: To create a kitchen-sink expert mode for modded minecraft with a nice diff
 7. Defining and implementing which mobs should only appear mid or late game and how mob difficulty progresses;
 8. Locking certain features such as the minimap, Hwyla and some dimensions behind certain requirements or achievments;
 9. Changing how compat skills works entirely and making it work with most mods;
-10. Making a quest/quide book for the player to follow.
+10. Making a quest/guide book for the player to follow.
 
 # Current Mod List
 
